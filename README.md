@@ -29,8 +29,3 @@ sudo apt install python3-pip
 
 # Install the cryptography library
 pip3 install cryptography
-
-
-
-
-
