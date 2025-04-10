@@ -17,7 +17,7 @@ A simple CLI-based password manager using blockchain technology to securely stor
 ## Installation
 Make sure  Python 3.x is installed. You can install the required dependencies using:
 
-~bash
+```bash
 # Update package list
 sudo apt update
 
